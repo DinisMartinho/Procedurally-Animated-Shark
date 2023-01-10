@@ -1,3 +1,3 @@
 # Procedural Animated Shark
 
-Link to the demonstration: https://dinismartinho.github.io/teste/
+Link to the demonstration: https://dinismartinho.github.io/Procedural-Animated-Shark/
