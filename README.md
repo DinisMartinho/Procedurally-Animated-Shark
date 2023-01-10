@@ -1,3 +1,3 @@
-Testing some unity webgl stuff
+#Procedural Animated Shark
 
-link to website : https://dinismartinho.github.io/teste/
+Link to the demonstration: https://dinismartinho.github.io/teste/
